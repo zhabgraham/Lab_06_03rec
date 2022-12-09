@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest0603rec.cpp
+C:\uni\labs\Lab_06_03rec\Lab_06_03rec.cpp(55,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\uni\labs\UnitTest0603rec\UnitTest0603rec.cpp(29,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\uni\labs\Lab_06_03rec\x64\Debug\UnitTest0603rec.lib and object C:\uni\labs\Lab_06_03rec\x64\Debug\UnitTest0603rec.exp
+  UnitTest0603rec.vcxproj -> C:\uni\labs\Lab_06_03rec\x64\Debug\UnitTest0603rec.dll
